@@ -8,8 +8,8 @@ let machineScoreNumber = 0
 
 // ENUMS
 const GAME_OPTIONS = {
-    ROCK: 'rook',
-    PAPER: 'papper',
+    ROCK: 'rock',
+    PAPER: 'paper',
     SCISSORS: 'scissors'
 }
 
